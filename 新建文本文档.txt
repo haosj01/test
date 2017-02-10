@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<CityWeatherResponse>
+    <status>success</status>
+        <currentCity>上海</currentCity>
+        <results>
+     
+        <result>
+            <date>周五 02月10日 (实时：4℃)</date>
+            <dayPictureUrl>http://api.map.baidu.com/images/weather/day/qing.png</dayPictureUrl>
+            <nightPictureUrl>http://api.map.baidu.com/images/weather/night/qing.png</nightPictureUrl>
+            <weather>晴</weather>
+            <wind>西北风微风</wind>
+            <temperature>6 ~ -1℃</temperature>
+        </result>
+     
+        <result>
+            <date>周六</date>
+            <dayPictureUrl>http://api.map.baidu.com/images/weather/day/qing.png</dayPictureUrl>
+            <nightPictureUrl>http://api.map.baidu.com/images/weather/night/qing.png</nightPictureUrl>
+            <weather>晴</weather>
+            <wind>西北风微风</wind>
+            <temperature>7 ~ -1℃</temperature>
+        </result>
+     
+        <result>
+            <date>周日</date>
+            <dayPictureUrl>http://api.map.baidu.com/images/weather/day/qing.png</dayPictureUrl>
+            <nightPictureUrl>http://api.map.baidu.com/images/weather/night/qing.png</nightPictureUrl>
+            <weather>晴</weather>
+            <wind>西南风微风</wind>
+            <temperature>10 ~ 1℃</temperature>
+        </result>
+     
+        <result>
+            <date>周一</date>
+            <dayPictureUrl>http://api.map.baidu.com/images/weather/day/qing.png</dayPictureUrl>
+            <nightPictureUrl>http://api.map.baidu.com/images/weather/night/qing.png</nightPictureUrl>
+            <weather>晴</weather>
+            <wind>南风微风</wind>
+            <temperature>11 ~ 3℃</temperature>
+        </result>
+        </results>
+</CityWeatherResponse>
